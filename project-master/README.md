@@ -1,5 +1,7 @@
 CMPT 276 - Group 1 -  All of Us Are Dead 
 
+Video demo: https://drive.google.com/file/d/1ZPVjt6JyYAyxPk0_qV4NdkBPYOXd3f59/view
+
 To build the game -
 1. Ensure Maven and java are installed and compatible on your system. This project was written in Java 15.
 2. In terminal run `mvn build`
