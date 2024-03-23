@@ -1,4 +1,4 @@
-CMPT 276 - Group 1 -  All of Us Are Dead 
+All of Us Are Dead 
 
 Video demo: https://drive.google.com/file/d/1ZPVjt6JyYAyxPk0_qV4NdkBPYOXd3f59/view
 
